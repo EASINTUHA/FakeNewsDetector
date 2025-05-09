@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+bert_model.pkl
+
+# Logs
+training.log
+app.log
+
+# IDE
+.vscode/
+.idea/
+
+# Miscellaneous
+*.DS_Store
