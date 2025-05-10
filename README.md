@@ -84,5 +84,9 @@ Fake News Example:
 Title: "Aliens Invade New York City"
 Text: "Extraterrestrials landed in Times Square."
 
+
+##Website:
+https://fakenewsdetector2.streamlit.app/
+
 ## Contact
 For questions or contributions, contact: [Md Easin] (mdeasintuha@gmail.com)
